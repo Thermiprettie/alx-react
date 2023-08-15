@@ -25,9 +25,9 @@ The script below installs the above 2 at the specified versions
 - $ sudo apt install nodejs
 
 ### Provided files
-babel.config.js
-jsconfig.json
-package.json
+- babel.config.js
+- jsconfig.json
+- package.json
 
 ### Tasks
 0. Converting into an Immutable object using fromJS
